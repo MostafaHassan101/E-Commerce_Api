@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\E_Commerce_API\\Context\\Context.csproj": {}
+    "C:\\Users\\Elmasry\\Downloads\\E_Commerce_API\\E_Commerce_API\\Context\\Context.csproj": {}
   },
   "projects": {
-    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\E_Commerce_API\\Context\\Context.csproj": {
+    "C:\\Users\\Elmasry\\Downloads\\E_Commerce_API\\E_Commerce_API\\Context\\Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\E_Commerce_API\\Context\\Context.csproj",
+        "projectUniqueName": "C:\\Users\\Elmasry\\Downloads\\E_Commerce_API\\E_Commerce_API\\Context\\Context.csproj",
         "projectName": "Context",
-        "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\E_Commerce_API\\Context\\Context.csproj",
-        "packagesPath": "C:\\Users\\MSleim\\.nuget\\packages\\",
-        "outputPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\E_Commerce_API\\Context\\obj\\",
+        "projectPath": "C:\\Users\\Elmasry\\Downloads\\E_Commerce_API\\E_Commerce_API\\Context\\Context.csproj",
+        "packagesPath": "C:\\Users\\Elmasry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elmasry\\Downloads\\E_Commerce_API\\E_Commerce_API\\Context\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MSleim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elmasry\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
