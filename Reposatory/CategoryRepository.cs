@@ -19,8 +19,7 @@ namespace Reposatory
         }
         public Task<IEnumerable<Category>> FilterByAsync(string? filter = null)
         {
-            //filter = filter.ToLower();
-            IEnumerable<Category> categories =_context.Category.Include(a => a.Products)
+            IEnumerable<Category> categories = _context.Category.Include(a => a.Products)
 
             .Where(a => filter == null || a.Name.ToLower().Contains(filter.ToLower()));
 
