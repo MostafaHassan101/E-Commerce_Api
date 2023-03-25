@@ -1,0 +1,15 @@
+F:\E-Commerce_Api_new\Application\bin\Debug\net7.0\Application.deps.json
+F:\E-Commerce_Api_new\Application\bin\Debug\net7.0\Application.dll
+F:\E-Commerce_Api_new\Application\bin\Debug\net7.0\Application.pdb
+F:\E-Commerce_Api_new\Application\bin\Debug\net7.0\Domain.dll
+F:\E-Commerce_Api_new\Application\bin\Debug\net7.0\Domain.pdb
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.dll
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\refint\Application.dll
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\Application.pdb
+F:\E-Commerce_Api_new\Application\obj\Debug\net7.0\ref\Application.dll

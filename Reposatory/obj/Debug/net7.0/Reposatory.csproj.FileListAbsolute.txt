@@ -1,0 +1,36 @@
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.deps.json
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.dll
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.pdb
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Context.dll
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Domain.dll
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Context.pdb
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Domain.pdb
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.AssemblyReference.cache
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.GeneratedMSBuildEditorConfig.editorconfig
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.AssemblyInfoInputs.cache
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.AssemblyInfo.cs
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.CoreCompileInputs.cache
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.CopyComplete
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.dll
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\refint\Reposatory.dll
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.pdb
+E:\AA Courses\ITI\.Net\Final Project\E-Commerce Api Project Versions\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\ref\Reposatory.dll
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.deps.json
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.dll
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.pdb
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Context.dll
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Domain.dll
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Context.pdb
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Domain.pdb
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.AssemblyReference.cache
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.GeneratedMSBuildEditorConfig.editorconfig
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.AssemblyInfoInputs.cache
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.AssemblyInfo.cs
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.CoreCompileInputs.cache
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.CopyComplete
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.dll
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\refint\Reposatory.dll
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.pdb
+F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\ref\Reposatory.dll
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Application.dll
+F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Application.pdb
