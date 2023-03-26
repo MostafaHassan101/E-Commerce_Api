@@ -30,6 +30,28 @@ namespace E_Commerce_API.Controllers
 
         }
 
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteProduct([FromRoute] long id)
+        {
+            return Ok(await _productRepository.DeleteAsync(id));
+        }
+            //[HttpPost]
+            //public async Task<IActionResult> CreateProductAsync(string name, string namear, string description, string desacriptionar, decimal price, string? size, string imgurl, byte? rate, long CategoryId, int brandid)
+            //{
+            //    var product = new Product()
+            //    {
+            //        Name = name,
+            //        NameAr = namear,
+            //        DescriptionAr = description,
+            //        Description = description,
+            //        Price = price,
+            //        Sizes = size,
+            //        ImagePath = imgurl,
+            //        Rate = rate,
+            //    };
 
-    }
+
+            //}
+
+        } 
 }
