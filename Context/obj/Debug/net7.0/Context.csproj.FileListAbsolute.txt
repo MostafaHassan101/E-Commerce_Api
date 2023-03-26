@@ -83,3 +83,20 @@ F:\E-Commerce_Api_new\Context\obj\Debug\net7.0\refint\Context.dll
 F:\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.pdb
 F:\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.genruntimeconfig.cache
 F:\E-Commerce_Api_new\Context\obj\Debug\net7.0\ref\Context.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\bin\Debug\net7.0\Context.deps.json
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\bin\Debug\net7.0\Context.runtimeconfig.json
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\bin\Debug\net7.0\Context.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\bin\Debug\net7.0\Context.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\bin\Debug\net7.0\Domain.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\bin\Debug\net7.0\Domain.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.csproj.AssemblyReference.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.AssemblyInfoInputs.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.AssemblyInfo.cs
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.csproj.CoreCompileInputs.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.csproj.CopyComplete
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\refint\Context.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\Context.genruntimeconfig.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Context\obj\Debug\net7.0\ref\Context.dll

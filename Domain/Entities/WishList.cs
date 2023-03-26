@@ -12,7 +12,7 @@ namespace Domain.Entities
         public long ProductId { get; set; }
         public virtual ICollection<Product> Products { get; set; }
         public virtual User User { get; set; }
-        public Guid UserId { get; set; }
+        public long UserId { get; set; }
 
 
     }

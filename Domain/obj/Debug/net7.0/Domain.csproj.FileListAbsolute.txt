@@ -70,3 +70,15 @@ F:\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.dll
 F:\E-Commerce_Api_new\Domain\obj\Debug\net7.0\refint\Domain.dll
 F:\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.pdb
 F:\E-Commerce_Api_new\Domain\obj\Debug\net7.0\ref\Domain.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\bin\Debug\net7.0\Domain.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\bin\Debug\net7.0\Domain.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\Domain.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Domain\obj\Debug\net7.0\ref\Domain.dll

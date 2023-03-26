@@ -103,15 +103,12 @@ namespace Context.Migrations
                     b.Property<decimal>("TotalPrice")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<Guid>("UserId")
-                        .HasColumnType("uniqueidentifier");
-
-                    b.Property<string>("UserId1")
+                    b.Property<string>("UserId")
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("UserId1");
+                    b.HasIndex("UserId");
 
                     b.ToTable("Order", (string)null);
                 });
@@ -209,7 +206,7 @@ namespace Context.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<long>("WishListId1")
+                    b.Property<long?>("WishListId1")
                         .HasColumnType("bigint");
 
                     b.HasKey("Id");
@@ -600,6 +597,24 @@ namespace Context.Migrations
                     b.ToTable("OrderProduct");
                 });
 
+            modelBuilder.Entity("ProductProductColor", b =>
+                {
+                    b.Property<long>("ProductsId")
+                        .HasColumnType("bigint");
+
+                    b.Property<long>("ProductColorsProductId")
+                        .HasColumnType("bigint");
+
+                    b.Property<string>("ProductColorsName")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.HasKey("ProductsId", "ProductColorsProductId", "ProductColorsName");
+
+                    b.HasIndex("ProductColorsProductId", "ProductColorsName");
+
+                    b.ToTable("ProductProductColor");
+                });
+
             modelBuilder.Entity("Domain.Entities.Category", b =>
                 {
                     b.HasOne("Domain.Entities.Category", "ParentCategory")
@@ -613,7 +628,7 @@ namespace Context.Migrations
                 {
                     b.HasOne("Domain.Entities.User", "User")
                         .WithMany("Orders")
-                        .HasForeignKey("UserId1");
+                        .HasForeignKey("UserId");
 
                     b.Navigation("User");
                 });
@@ -653,26 +668,13 @@ namespace Context.Migrations
 
                     b.HasOne("Domain.Entities.WishList", "WishList")
                         .WithMany("Products")
-                        .HasForeignKey("WishListId1")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("WishListId1");
 
                     b.Navigation("Brand");
 
                     b.Navigation("Category");
 
                     b.Navigation("WishList");
-                });
-
-            modelBuilder.Entity("Domain.Entities.ProductColor", b =>
-                {
-                    b.HasOne("Domain.Entities.Product", "Product")
-                        .WithMany("ProductColors")
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("Domain.Entities.ProductImage", b =>
@@ -780,6 +782,21 @@ namespace Context.Migrations
                         .IsRequired();
                 });
 
+            modelBuilder.Entity("ProductProductColor", b =>
+                {
+                    b.HasOne("Domain.Entities.Product", null)
+                        .WithMany()
+                        .HasForeignKey("ProductsId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Domain.Entities.ProductColor", null)
+                        .WithMany()
+                        .HasForeignKey("ProductColorsProductId", "ProductColorsName")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
             modelBuilder.Entity("Domain.Entities.Brand", b =>
                 {
                     b.Navigation("Products");
@@ -799,8 +816,6 @@ namespace Context.Migrations
 
             modelBuilder.Entity("Domain.Entities.Product", b =>
                 {
-                    b.Navigation("ProductColors");
-
                     b.Navigation("ProductImages");
 
                     b.Navigation("ProductReview");

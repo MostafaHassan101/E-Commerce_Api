@@ -34,3 +34,22 @@ F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.pdb
 F:\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\ref\Reposatory.dll
 F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Application.dll
 F:\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Application.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.deps.json
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Reposatory.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Application.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Context.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Domain.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Application.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Context.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\bin\Debug\net7.0\Domain.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.AssemblyReference.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.GeneratedMSBuildEditorConfig.editorconfig
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.AssemblyInfoInputs.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.AssemblyInfo.cs
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.CoreCompileInputs.cache
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.csproj.CopyComplete
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\refint\Reposatory.dll
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\Reposatory.pdb
+E:\1A iti qena fullstack web dev using .net\final project vs\version2\E-Commerce_Api_new (1)\E-Commerce_Api_new\Reposatory\obj\Debug\net7.0\ref\Reposatory.dll
