@@ -3657,19 +3657,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\asd\\.nuget\\packages\\": {}
+    "C:\\Users\\Fatima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj",
+      "projectUniqueName": "F:\\E-Commerce_Api_new\\Context\\Context.csproj",
       "projectName": "Context",
-      "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj",
-      "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-      "outputPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\obj\\",
+      "projectPath": "F:\\E-Commerce_Api_new\\Context\\Context.csproj",
+      "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+      "outputPath": "F:\\E-Commerce_Api_new\\Context\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3683,8 +3683,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj"
+            "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj"
             }
           }
         }
@@ -3738,7 +3738,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

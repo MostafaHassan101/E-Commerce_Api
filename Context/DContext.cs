@@ -1,12 +1,11 @@
 ﻿using Domain.Entities;
 using Domain.Entities.Configuration;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Context
 {
-    public class DContext : IdentityDbContext<User,IdentityRole<long>,long>
+    public class DContext : IdentityDbContext<User>
     {
         public DbSet<Brand> Brand { get; set; }
         public DbSet<Category> Category { get; set; }

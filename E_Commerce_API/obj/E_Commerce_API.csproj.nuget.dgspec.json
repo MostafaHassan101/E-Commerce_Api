@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj": {}
+    "F:\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj": {}
   },
   "projects": {
-    "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\Application.csproj": {
+    "F:\\E-Commerce_Api_new\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\Application.csproj",
+        "projectUniqueName": "F:\\E-Commerce_Api_new\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\obj\\",
+        "projectPath": "F:\\E-Commerce_Api_new\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+        "outputPath": "F:\\E-Commerce_Api_new\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj"
+              "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj"
               }
             }
           }
@@ -59,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj": {
+    "F:\\E-Commerce_Api_new\\Context\\Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj",
+        "projectUniqueName": "F:\\E-Commerce_Api_new\\Context\\Context.csproj",
         "projectName": "Context",
-        "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\obj\\",
+        "projectPath": "F:\\E-Commerce_Api_new\\Context\\Context.csproj",
+        "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+        "outputPath": "F:\\E-Commerce_Api_new\\Context\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,8 +87,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj"
+              "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj"
               }
             }
           }
@@ -142,21 +142,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
+    "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Domain\\obj\\",
+        "projectPath": "F:\\E-Commerce_Api_new\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+        "outputPath": "F:\\E-Commerce_Api_new\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -207,21 +207,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj": {
+    "F:\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj",
+        "projectUniqueName": "F:\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj",
         "projectName": "E_Commerce_API",
-        "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\E_Commerce_API\\obj\\",
+        "projectPath": "F:\\E-Commerce_Api_new\\E_Commerce_API\\E_Commerce_API.csproj",
+        "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+        "outputPath": "F:\\E-Commerce_Api_new\\E_Commerce_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,14 +235,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\Application.csproj": {
-                "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\Application.csproj"
+              "F:\\E-Commerce_Api_new\\Application\\Application.csproj": {
+                "projectPath": "F:\\E-Commerce_Api_new\\Application\\Application.csproj"
               },
-              "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj": {
-                "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj"
+              "F:\\E-Commerce_Api_new\\Context\\Context.csproj": {
+                "projectPath": "F:\\E-Commerce_Api_new\\Context\\Context.csproj"
               },
-              "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj": {
-                "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj"
+              "F:\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj": {
+                "projectPath": "F:\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj"
               }
             }
           }
@@ -309,21 +309,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj": {
+    "F:\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj",
+        "projectUniqueName": "F:\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj",
         "projectName": "Reposatory",
-        "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj",
-        "packagesPath": "C:\\Users\\asd\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Reposatory\\obj\\",
+        "projectPath": "F:\\E-Commerce_Api_new\\Reposatory\\Reposatory.csproj",
+        "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+        "outputPath": "F:\\E-Commerce_Api_new\\Reposatory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\asd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -337,11 +337,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\Application.csproj": {
-                "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Application\\Application.csproj"
+              "F:\\E-Commerce_Api_new\\Application\\Application.csproj": {
+                "projectPath": "F:\\E-Commerce_Api_new\\Application\\Application.csproj"
               },
-              "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj": {
-                "projectPath": "D:\\ITI_FullStack .net\\Final project course\\E-Commerce_Api_new\\Context\\Context.csproj"
+              "F:\\E-Commerce_Api_new\\Context\\Context.csproj": {
+                "projectPath": "F:\\E-Commerce_Api_new\\Context\\Context.csproj"
               }
             }
           }
@@ -371,7 +371,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
