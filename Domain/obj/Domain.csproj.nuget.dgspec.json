@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj": {}
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj": {
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\obj\\",
+        "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\MSleim\\.nuget\\packages\\",
+        "outputPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSleim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

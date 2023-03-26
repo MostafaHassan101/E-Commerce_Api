@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj": {}
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj": {}
   },
   "projects": {
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj": {
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\obj\\",
+        "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\MSleim\\.nuget\\packages\\",
+        "outputPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSleim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -29,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj"
+              "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj"
               }
             }
           }
@@ -60,28 +59,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj": {
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj",
+        "projectUniqueName": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\Context.csproj",
         "projectName": "Context",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\obj\\",
+        "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\Context.csproj",
+        "packagesPath": "C:\\Users\\MSleim\\.nuget\\packages\\",
+        "outputPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSleim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -89,8 +87,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj"
+              "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj"
               }
             }
           }
@@ -144,28 +142,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj": {
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\obj\\",
+        "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\MSleim\\.nuget\\packages\\",
+        "outputPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSleim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -210,28 +207,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj": {
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
+        "projectUniqueName": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
         "projectName": "E_Commerce_API",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\obj\\",
+        "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
+        "packagesPath": "C:\\Users\\MSleim\\.nuget\\packages\\",
+        "outputPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\E_Commerce_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSleim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -239,14 +235,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj"
+              "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\Application.csproj": {
+                "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\Application.csproj"
               },
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj"
+              "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\Context.csproj": {
+                "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\Context.csproj"
               },
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\Reposatory.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\Reposatory.csproj"
+              "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Reposatory\\Reposatory.csproj": {
+                "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Reposatory\\Reposatory.csproj"
               }
             }
           }
@@ -313,28 +309,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\Reposatory.csproj": {
+    "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Reposatory\\Reposatory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\Reposatory.csproj",
+        "projectUniqueName": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Reposatory\\Reposatory.csproj",
         "projectName": "Reposatory",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\Reposatory.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\obj\\",
+        "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Reposatory\\Reposatory.csproj",
+        "packagesPath": "C:\\Users\\MSleim\\.nuget\\packages\\",
+        "outputPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Reposatory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSleim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -342,11 +337,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj"
+              "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\Application.csproj": {
+                "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Application\\Application.csproj"
               },
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj"
+              "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\Context.csproj": {
+                "projectPath": "E:\\1A iti qena fullstack web dev using .net\\final project vs\\version3\\E-Commerce_Api\\Context\\Context.csproj"
               }
             }
           }
@@ -376,7 +371,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
