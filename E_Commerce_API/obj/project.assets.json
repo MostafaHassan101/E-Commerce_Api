@@ -1325,7 +1325,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "Dtos": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Application.dll": {}
@@ -1363,6 +1364,16 @@
         },
         "runtime": {
           "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dtos.dll": {}
         }
       },
       "Reposatory/1.0.0": {
@@ -4146,6 +4157,11 @@
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
     },
+    "Dtos/1.0.0": {
+      "type": "project",
+      "path": "../Dtos/Dtos.csproj",
+      "msbuildProject": "../Dtos/Dtos.csproj"
+    },
     "Reposatory/1.0.0": {
       "type": "project",
       "path": "../Reposatory/Reposatory.csproj",
@@ -4167,26 +4183,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mosta\\.nuget\\packages\\": {}
+    "C:\\Users\\Fatima\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
+      "projectUniqueName": "F:\\New folder\\version3\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
       "projectName": "E_Commerce_API",
-      "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
-      "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-      "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\E_Commerce_API\\obj\\",
+      "projectPath": "F:\\New folder\\version3\\E-Commerce_Api\\E_Commerce_API\\E_Commerce_API.csproj",
+      "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+      "outputPath": "F:\\New folder\\version3\\E-Commerce_Api\\E_Commerce_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -4194,14 +4209,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj": {
-              "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Application\\Application.csproj"
+            "F:\\New folder\\version3\\E-Commerce_Api\\Application\\Application.csproj": {
+              "projectPath": "F:\\New folder\\version3\\E-Commerce_Api\\Application\\Application.csproj"
             },
-            "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj": {
-              "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj"
+            "F:\\New folder\\version3\\E-Commerce_Api\\Context\\Context.csproj": {
+              "projectPath": "F:\\New folder\\version3\\E-Commerce_Api\\Context\\Context.csproj"
             },
-            "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\Reposatory.csproj": {
-              "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Reposatory\\Reposatory.csproj"
+            "F:\\New folder\\version3\\E-Commerce_Api\\Reposatory\\Reposatory.csproj": {
+              "projectPath": "F:\\New folder\\version3\\E-Commerce_Api\\Reposatory\\Reposatory.csproj"
             }
           }
         }
@@ -4268,7 +4283,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

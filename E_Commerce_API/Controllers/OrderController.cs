@@ -4,6 +4,7 @@ using Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Reposatory;
+using Reposatory.DTOs;
 
 namespace E_Commerce_API.Controllers
 {
@@ -48,6 +49,13 @@ namespace E_Commerce_API.Controllers
 		{
 			return await _iorderRepository.DeleteAsync(id);
 
+		}
+
+		[HttpPost]
+		public async Task<IActionResult> createorder([FromBody]OrderDTO orderDTO)
+
+		{
+			return Ok(_iorderRepository.AddOreder(orderDTO));
 		}
 
 

@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj": {}
+    "F:\\New folder\\version3\\E-Commerce_Api\\Context\\Context.csproj": {}
   },
   "projects": {
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj": {
+    "F:\\New folder\\version3\\E-Commerce_Api\\Context\\Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj",
+        "projectUniqueName": "F:\\New folder\\version3\\E-Commerce_Api\\Context\\Context.csproj",
         "projectName": "Context",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\Context.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Context\\obj\\",
+        "projectPath": "F:\\New folder\\version3\\E-Commerce_Api\\Context\\Context.csproj",
+        "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\version3\\E-Commerce_Api\\Context\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -29,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj"
+              "F:\\New folder\\version3\\E-Commerce_Api\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\New folder\\version3\\E-Commerce_Api\\Domain\\Domain.csproj"
               }
             }
           }
@@ -84,28 +83,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj": {
+    "F:\\New folder\\version3\\E-Commerce_Api\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj",
+        "projectUniqueName": "F:\\New folder\\version3\\E-Commerce_Api\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "E:\\AA Courses\\ITI\\.Net\\Final Project\\GitHub_ApiProject\\E-Commerce_Api\\Domain\\obj\\",
+        "projectPath": "F:\\New folder\\version3\\E-Commerce_Api\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
+        "outputPath": "F:\\New folder\\version3\\E-Commerce_Api\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -150,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

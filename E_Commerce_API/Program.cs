@@ -11,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<DContext>(options =>
     {
        // options.UseLazyLoadingProxies();
-        options.UseSqlServer(builder.Configuration.GetConnectionString("DbConnectionStringMostafa"));
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DbContextConnectionFatmaAhmed"));
     }); 
 
 // Add services to the container.
@@ -36,8 +36,8 @@ builder.Services.AddControllers();
 
 builder.Services.AddSwaggerGen();
 
-//builder.Services.AddControllers()
-//                    .AddJsonOptions(o => o.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
+builder.Services.AddControllers()
+                  .AddJsonOptions(o => o.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 builder.Services.AddEndpointsApiExplorer();
 var app = builder.Build();
 
@@ -49,7 +49,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseCors(policy => policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 app.UseAuthorization();
 
 app.MapControllers();

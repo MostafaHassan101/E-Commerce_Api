@@ -743,7 +743,8 @@
       },
       "Application/1.0.0": {
         "dependencies": {
-          "Domain": "1.0.0"
+          "Domain": "1.0.0",
+          "Dtos": "1.0.0"
         },
         "runtime": {
           "Application.dll": {}
@@ -768,6 +769,11 @@
         },
         "runtime": {
           "Domain.dll": {}
+        }
+      },
+      "Dtos/1.0.0": {
+        "runtime": {
+          "Dtos.dll": {}
         }
       },
       "Reposatory/1.0.0": {
@@ -1351,6 +1357,11 @@
       "sha512": ""
     },
     "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dtos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
